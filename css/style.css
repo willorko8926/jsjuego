@@ -1,0 +1,48 @@
+body{
+        background-image:url(../img/fondo.jpg);  
+         background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+        background-color:#51aeda;
+       }
+
+  #cnt{
+    margin: auto;
+    margin-top: 60px;
+    width: 800px;
+    height: 200px;
+    border:1px solid black;
+    position: relative;
+  }
+
+  #uno{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+    background-image: url(../img/p1.png);
+  }
+  #dos{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    background-image: url(../img/p2.png);
+
+  }
+  #tres{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+    background-image: url(../img/p3.jpg);
+
+  }
+  #cuatro{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    background-image: url(../img/p4.png);
+
+  }
